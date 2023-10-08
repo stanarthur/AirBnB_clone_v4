@@ -161,6 +161,6 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Second part of Airbnb: Joann Vuong
 
-Airbnb_v4: Stanhope Chinonso.
+Airbnb_v4: Stanhope Chinonso, Desmond Asamoah
 ## License
 MIT License.
